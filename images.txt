@@ -5,5 +5,8 @@ elasticsearch:8.15.2
 logstash:8.15.2
 redis:latest
 rabbitmq:management-alpine
+kibana:7.17.24
+elasticsearch:7.17.24
+logstash:7.17.24
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
