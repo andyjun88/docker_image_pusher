@@ -3,5 +3,7 @@ nginx
 kibana:8.15.2
 elasticsearch:8.15.2
 logstash:8.15.2
+redis:latest
+rabbitmq:management-alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
